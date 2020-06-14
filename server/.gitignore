@@ -1,0 +1,8 @@
+/node_modules
+/.idea
+/mongo-data
+/package-lock.json
+/log-parser.iml
+/parser.log
+/*.csv
+/actions/
